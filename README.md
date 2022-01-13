@@ -4,7 +4,7 @@
 
 ### Bobby's manager has given us a task to determine the number of retiring employees and to identify who is in the mentorship program. Not only that, we will need to figure out our current employees
 
-## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+## Results
 
 ![First_image](https://raw.githubusercontent.com/Greekman12490/Pewlett-Hackard-Analysis/main/Resources/Retirement%20Titles.PNG)
 ![First_image](https://raw.githubusercontent.com/Greekman12490/Pewlett-Hackard-Analysis/main/Resources/Unique.PNG)
@@ -19,6 +19,8 @@
   * Most common retiree - Senior Engineer
   
 
-## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+## Summary
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
+* * Ninety-thousand, three hundred and ninety-eight people are retiring (90,398)
+* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+* * No, with only one thousand, nine hundred and forty retirees (1,940), one retiree will have to mentor at least five people. If this the route wants to take, they can, but some new employees could be neglected.
